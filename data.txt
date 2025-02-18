@@ -1,1 +1,3 @@
+marketplace.amazon.de
+members.ebay.com
 verkopen.bol.com
