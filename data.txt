@@ -4,3 +4,4 @@ verkopen.bol.com
 marketplace.amazon.co.uk
 marketplace.amazon.es
 storebotmail.joonix.net
+notification.mirakl.net
