@@ -9,3 +9,4 @@ members.ebay.com
 notification.mirakl.net
 storebotmail.joonix.net
 verkopen.bol.com
+txt.att.net
