@@ -1,3 +1,4 @@
+guest.booking.com
 kaufland-marktplatz.de
 marketplace.amazon.co.uk
 marketplace.amazon.com.be
@@ -7,7 +8,7 @@ marketplace.amazon.fr
 marketplace.amazon.nl
 members.ebay.com
 notification.mirakl.net
+notification.mirakl.net
 storebotmail.joonix.net
-verkopen.bol.com
 txt.att.net
-guest.booking.com
+verkopen.bol.com
